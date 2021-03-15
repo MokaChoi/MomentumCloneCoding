@@ -9,6 +9,7 @@
 5. 페이지를 시작할 때 배경화면 8개중에 랜덤으로 선택하여 적용  
 
 ## 사진
+![image](https://user-images.githubusercontent.com/78836615/111124102-7300bb00-85b3-11eb-883e-60bf50a46fae.png)
 
 
 #### 참조
